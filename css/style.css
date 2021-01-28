@@ -1,0 +1,45 @@
+/* 
+Powered | CoderX ©2020 | Andrei Abd
+█▀▀ █▀█ █▀▄ █▀▀ █▀█ ▀▄▀
+█▄▄ █▄█ █▄▀ ██▄ █▀▄ █░█
+CODER X |تم تصميم الموقع و برمجته من قبل اندريه عبد
+mail      :  usr.g0a1@gmial.com
+CoderX    :  https://coderx-project.blogspot.com/
+Whatsapp  :  +963934820511
+Pinterest :  https://www.pinterest.com/andreiabd93
+Instagram :  https://www.instagram.com/andrei_abd/
+Linkeden  :  https://www.linkedin.com/in/andreiabd
+Facebook  :  https://www.facebook.com/andreiaabd/ 
+*/
+body{
+width: 100%;
+background-color: #222;
+color: #999;
+}
+.container{
+padding-top: 0.5em;
+direction:rtl;
+text-align: right;
+}
+#main-article{
+font-weight: bold;
+color: #d63b36;
+}
+header{
+border-bottom: 2px #111 solid;
+}
+#headerfont{
+font-size: 50px;
+}
+ul li{
+list-style-type: none;
+}
+.btn{
+font-weight: bold;
+}
+footer{
+text-align: center;
+border-top:2px #111 solid;
+font-size:20px;
+direction: ltr;
+}
